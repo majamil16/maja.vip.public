@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-Improvement on maja milinkovic blog</title>
+    <link>http://localhost:1313/tags/self-improvement/</link>
+    <description>Recent content in Self-Improvement on maja milinkovic blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Maja Milinkovic</copyright>
+    <lastBuildDate>Sat, 13 Jul 2024 15:24:22 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/posts/resources/</link>
+      <pubDate>Sat, 13 Jul 2024 15:24:22 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/resources/</guid>
+      <description>A collection of resources I&amp;rsquo;ve found invaluable during my career.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
